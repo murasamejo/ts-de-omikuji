@@ -15,7 +15,7 @@
     "@typescript-eslint/parser": "4.30.0",
     "css-loader": ">=6.2.0",
     "eslint-plugin-jest": ">=24.4.0",
-    "jest": ">=27.1.0",
+    "jest": ">=27.1.1",
     "jquery": ">=3.6.0",
     "sass-loader": ">=12.1.0",
     "style-loader": ">=3.2.1",
