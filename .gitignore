@@ -1,2 +1,6 @@
 node_modules/
 dist/main.js
+
+# Yarn v3
+.yarn/*
+!.yarn/releases/
