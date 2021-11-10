@@ -829,7 +829,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/jest@npm:>=27.0.1":
+"@types/jest@npm:27.0.2":
   version: 27.0.2
   resolution: "@types/jest@npm:27.0.2"
   dependencies:
@@ -5936,7 +5936,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "ts_de_omikuji@workspace:."
   dependencies:
-    "@types/jest": ">=27.0.1"
+    "@types/jest": 27.0.2
     "@typescript-eslint/eslint-plugin": ">=5.0.0"
     "@typescript-eslint/parser": ">=5.0.0"
     css-loader: ">=6.4.0"
