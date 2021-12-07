@@ -17,7 +17,7 @@
     "eslint-plugin-jest": "25.3.0",
     "jest": "27.4.3",
     "jquery": "3.6.0",
-    "sass-loader": "12.3.0",
+    "sass-loader": "12.4.0",
     "style-loader": "3.3.1",
     "ts-jest": "27.1.0",
     "ts-loader": "9.2.6",
