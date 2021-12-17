@@ -903,7 +903,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@typescript-eslint/eslint-plugin@npm:>=5.5.0":
+"@typescript-eslint/eslint-plugin@npm:5.7.0":
   version: 5.7.0
   resolution: "@typescript-eslint/eslint-plugin@npm:5.7.0"
   dependencies:
@@ -957,7 +957,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@typescript-eslint/parser@npm:>=5.5.0":
+"@typescript-eslint/parser@npm:5.7.0":
   version: 5.7.0
   resolution: "@typescript-eslint/parser@npm:5.7.0"
   dependencies:
@@ -2125,7 +2125,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"css-loader@npm:>=6.5.1":
+"css-loader@npm:6.5.1":
   version: 6.5.1
   resolution: "css-loader@npm:6.5.1"
   dependencies:
@@ -2530,7 +2530,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint-plugin-jest@npm:>=25.3.0":
+"eslint-plugin-jest@npm:25.3.0":
   version: 25.3.0
   resolution: "eslint-plugin-jest@npm:25.3.0"
   dependencies:
@@ -4127,7 +4127,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"jest@npm:>=27.4.3":
+"jest@npm:27.4.5":
   version: 27.4.5
   resolution: "jest@npm:27.4.5"
   dependencies:
@@ -4145,7 +4145,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"jquery@npm:>=3.6.0":
+"jquery@npm:3.6.0":
   version: 3.6.0
   resolution: "jquery@npm:3.6.0"
   checksum: 8fd5fef4aa48fd374ec716dd1c1df1af407814a228e15c1260ca140de3a697c2a77c30c54ff1d238b6a3ab4ddc445ddeef9adce6c6d28e4869d85eb9d3951c0e
@@ -5399,7 +5399,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"sass-loader@npm:>=12.3.0":
+"sass-loader@npm:12.4.0":
   version: 12.4.0
   resolution: "sass-loader@npm:12.4.0"
   dependencies:
@@ -5840,7 +5840,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"style-loader@npm:>=3.3.1":
+"style-loader@npm:3.3.1":
   version: 3.3.1
   resolution: "style-loader@npm:3.3.1"
   peerDependencies:
@@ -6034,7 +6034,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"ts-jest@npm:>=27.1.0":
+"ts-jest@npm:27.1.2":
   version: 27.1.2
   resolution: "ts-jest@npm:27.1.2"
   dependencies:
@@ -6068,7 +6068,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"ts-loader@npm:>=9.2.6":
+"ts-loader@npm:9.2.6":
   version: 9.2.6
   resolution: "ts-loader@npm:9.2.6"
   dependencies:
@@ -6088,20 +6088,20 @@ __metadata:
   resolution: "ts_de_omikuji@workspace:."
   dependencies:
     "@types/jest": ">=27.0.3"
-    "@typescript-eslint/eslint-plugin": ">=5.5.0"
-    "@typescript-eslint/parser": ">=5.5.0"
-    css-loader: ">=6.5.1"
-    eslint-plugin-jest: ">=25.3.0"
-    jest: ">=27.4.3"
-    jquery: ">=3.6.0"
-    sass-loader: ">=12.3.0"
-    style-loader: ">=3.3.1"
-    ts-jest: ">=27.1.0"
-    ts-loader: ">=9.2.6"
-    typescript: ">=4.5.2"
-    webpack: ">=5.64.4"
-    webpack-cli: ">=4.9.1"
-    webpack-dev-server: ">=4.6.0"
+    "@typescript-eslint/eslint-plugin": 5.7.0
+    "@typescript-eslint/parser": 5.7.0
+    css-loader: 6.5.1
+    eslint-plugin-jest: 25.3.0
+    jest: 27.4.5
+    jquery: 3.6.0
+    sass-loader: 12.4.0
+    style-loader: 3.3.1
+    ts-jest: 27.1.2
+    ts-loader: 9.2.6
+    typescript: 4.5.4
+    webpack: 5.65.0
+    webpack-cli: 4.9.1
+    webpack-dev-server: 4.6.0
   languageName: unknown
   linkType: soft
 
@@ -6165,7 +6165,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"typescript@npm:>=4.5.2":
+"typescript@npm:4.5.4":
   version: 4.5.4
   resolution: "typescript@npm:4.5.4"
   bin:
@@ -6175,7 +6175,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"typescript@patch:typescript@>=4.5.2#~builtin<compat/typescript>":
+"typescript@patch:typescript@4.5.4#~builtin<compat/typescript>":
   version: 4.5.4
   resolution: "typescript@patch:typescript@npm%3A4.5.4#~builtin<compat/typescript>::version=4.5.4&hash=493e53"
   bin:
@@ -6337,7 +6337,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"webpack-cli@npm:>=4.9.1":
+"webpack-cli@npm:4.9.1":
   version: 4.9.1
   resolution: "webpack-cli@npm:4.9.1"
   dependencies:
@@ -6385,7 +6385,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"webpack-dev-server@npm:>=4.6.0":
+"webpack-dev-server@npm:4.6.0":
   version: 4.6.0
   resolution: "webpack-dev-server@npm:4.6.0"
   dependencies:
@@ -6442,7 +6442,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"webpack@npm:>=5.64.4":
+"webpack@npm:5.65.0":
   version: 5.65.0
   resolution: "webpack@npm:5.65.0"
   dependencies:
