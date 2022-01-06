@@ -26,5 +26,8 @@
   "scripts": {
     "build": "webpack",
     "test": "jest"
+  },
+  "volta": {
+    "node": "16.13.1"
   }
 }
