@@ -7,7 +7,7 @@
     "@types/jest": "27.4.0",
     "@typescript-eslint/eslint-plugin": "5.10.2",
     "@typescript-eslint/parser": "5.10.2",
-    "css-loader": "6.5.1",
+    "css-loader": "6.6.0",
     "eslint-plugin-jest": "26.0.0",
     "jest": "27.4.7",
     "jquery": "3.6.0",
