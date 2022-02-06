@@ -9,7 +9,7 @@
     "@typescript-eslint/parser": "5.10.2",
     "css-loader": "6.6.0",
     "eslint-plugin-jest": "26.0.0",
-    "jest": "27.4.7",
+    "jest": "27.5.0",
     "jquery": "3.6.0",
     "sass-loader": "12.4.0",
     "style-loader": "3.3.1",
